@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 -->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joseunghui&repo=UNO_game&theme=transparent)](https://github.com/joseunghui/UNO_game)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=transparent)](https://github.com/joseunghui/UNO_game)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joseunghui&repo=repractice&theme=transparent)](https://github.com/joseunghui/repractice)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=transparent)](https://github.com/joseunghui/UNO_game)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseunghui&layout=donut&theme=transparent)](https://github.com/joseunghui/repractice)
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joseunghui&show_icons=true&theme=dark)
