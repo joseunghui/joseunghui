@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joseunghui&repo=UNO_game&theme=transparent)](https://github.com/joseunghui/UNO_game)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joseunghui&repo=repractice&theme=transparent)](https://github.com/joseunghui/repractice)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joseunghui&repo=repractice&theme=transparent)](https://github.com/joseunghui/GOHAMA)
 
 
 <!--
