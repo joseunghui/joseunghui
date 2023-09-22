@@ -1,4 +1,4 @@
-🌱![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=10&section=header&text=Hi\\n\\n\:\)&fontSize=30)
+🌱![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=30&section=header&text=Hi~~\:\)&fontSize=30)
 
 
 <!--
